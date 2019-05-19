@@ -3,8 +3,17 @@
 
 Dia 1: Maio 18, 2019
 
-**Progresso do dia: 
-
+**Progresso do dia: Assisti Aula 04 e realizei exercicios do curso JAX-WS do Alura. 
+					Criei o repositorio no GB do 100DaysCode. 
+					Criei o repositorio no GB da Formação Java.
+					Tentei executar o Ubuntu direto do PowerShell do Windows.
+					
+**Pensamentos: Muito frustante entender WebService, principalmente essa parte que trata especificamente de XML, 
+				preciso melhorar meu entendimento de XML.
+			   Não consegui executar o comando para gerar o template do XML e abrir no Eclipse.
+			   
+**Link do trabalho: https://github.com/jpaulopd/100DaysOfCode
+					https://github.com/jpaulopd/Formacao-JAVA/blob/master/EstoqueWSServiceCap5.wsdl
  
 
    
