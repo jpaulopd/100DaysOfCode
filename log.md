@@ -8,14 +8,26 @@ Dia 1: Maio 18, 2019
 					Criei o repositorio no GB da Formação Java.
 					Tentei executar o Ubuntu direto do PowerShell do Windows.
 					
-**Pensamentos: Muito frustante entender WebService, principalmente essa parte que trata especificamente de XML, 
-				preciso melhorar meu entendimento de XML.
-			   Não consegui executar o comando para gerar o template do XML e abrir no Eclipse.
+**Pensamentos: 		Muito frustante entender WebService, principalmente essa parte que trata especificamente de XML, 
+					preciso melhorar meu entendimento de XML.
+					Não consegui executar o comando para gerar o template do XML e abrir no Eclipse.
 			   
 **Link do trabalho: https://github.com/jpaulopd/100DaysOfCode
 					https://github.com/jpaulopd/Formacao-JAVA/blob/master/EstoqueWSServiceCap5.wsdl
  
 
+Dia 2: Maio 19, 2019
+
+**Progresso do dia: Assisti Aula 05 e realizei exercicios do curso JAX-WS do Alura.
+					Ajustei a classe EstoqueWs para deixar explícito o tipo de documento e codificação.
+					Testei as alterações de codificação WRAPPED e BARE na requisição gerado no SOAPUI.
+					Consegui visualizar o design do template do XML do EstoqueWSServiceCap5.
+					
+**Pensamentos: 		Estudar com a cabeça fresca é bem melhor, simplesmente não consegui ver ontem um aba que permitia visualizar o design no XML no Eclipse.
+					Ainda não está claro toda interação do JAVA, com WSDL e XML, porém acredito que mais tempo resultará em novos insights.
+					Consegui percerber pelo menos que toda essa parte de requisição/resposta é para integrar aplicações remotas com qualquer plataforma de cliente.
+			   
+**Link do trabalho: https://github.com/jpaulopd/Formacao-JAVA/blob/master/JAX-WS/EstoqueWS.java
    
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
