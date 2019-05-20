@@ -28,6 +28,17 @@ Dia 2: Maio 19, 2019
 					Consegui percerber pelo menos que toda essa parte de requisição/resposta é para integrar aplicações remotas com qualquer plataforma de cliente.
 			   
 **Link do trabalho: https://github.com/jpaulopd/Formacao-JAVA/blob/master/JAX-WS/EstoqueWS.java
+
+
+Dia 3: Maio 20, 2019.
+
+**Progresso do dia:	Assisti aula 06 do curso JAW-WS do Alura.
+					Manutenção em código legado JAVA no trabalho e ajuste em Regras de Negócio em SQL.
+					Manutenção de rotina em montagem do Ubuntu com o cfis.
+					
+**Pensamentos:		Depois de 2 horas tentando ajustar o código JAVA, nada melhor que um café quentinho para entender qual seria a solução.
+
+
    
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
