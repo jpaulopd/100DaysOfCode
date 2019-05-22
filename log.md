@@ -39,6 +39,17 @@ Dia 3: Maio 20, 2019.
 **Pensamentos:		Depois de 2 horas tentando ajustar o código JAVA, nada melhor que um café quentinho para entender qual seria a solução.
 
 
+
+Dia 4: Maio 21, 2019.
+
+**Progresso do dia: Comecei a instalação do servidor Jboss no Eclipse para subir a aplicação JAX-WS.
+					Manutenção em página PHP que não retornava dados de uma query.
+					Implementação de novas funcionalidades em página PHP.
+					Assisti aula 01 e exercícios de PHP iniciante do Alura e fiz exercícios.
+
+**Pensamentos:		Necessitei para um pouco com a aplicação JAX para realizar manutenção de emergência em página PHP.
+					Junto com a manutenção veio pedido de implementação de novas funcionalidades, as quais não consegui, por desconhecer o código legado e o próprio PHP.
+					Tive de fazer um curso de emergência sobre PHP.
    
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
