@@ -50,7 +50,25 @@ Dia 4: Maio 21, 2019.
 **Pensamentos:		Necessitei para um pouco com a aplicação JAX para realizar manutenção de emergência em página PHP.
 					Junto com a manutenção veio pedido de implementação de novas funcionalidades, as quais não consegui, por desconhecer o código legado e o próprio PHP.
 					Tive de fazer um curso de emergência sobre PHP.
-   
+
+
+Dia 5: Maio 22, 2019.
+**Progresso do dia:	Finalizei o curso de PHP iniciante da Alura e inicei o PHP e Mysql Fundamentos I.
+					Estudo de página PHP para implementação de novas funcionalidades.
+
+**Pensamentos:		Aprender e ter prazo para fazer entregas tem sido muito desgastante, preciso focar mais em ações de maior impacto e menor esforço.
+
+**Link do trabalho: https://github.com/jpaulopd/PHP/tree/master/Alura/PhpMysqlFundamentosI
+					https://github.com/jpaulopd/PHP/tree/master/eclipsePhp-workspace/php-primeiros-passos
+					
+					
+Dia 6: Maio 23, 2019.
+**Progresso do dia: Realizei as aulas 1 a 7 do curso PHP e MySql Fundamentos I do ALura.
+
+**Pensamentos:		Finalmente algum progresso em entender PHP.
+					Entendi como funciona a programação orientada a objetos do PHP.
+					Entendi como organizar as páginas para cada funcionalidade.
+**Link do Trabalho: https://github.com/jpaulopd/PHP/tree/master/Alura/PhpMysqlFundamentosI
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
