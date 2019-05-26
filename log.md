@@ -69,6 +69,23 @@ Dia 6: Maio 23, 2019.
 					Entendi como funciona a programação orientada a objetos do PHP.
 					Entendi como organizar as páginas para cada funcionalidade.
 **Link do Trabalho: https://github.com/jpaulopd/PHP/tree/master/Alura/PhpMysqlFundamentosI
+
+
+Dia 7: Maio 24, 2019.
+**Progresso do dia: Realizei a aula 8 do curso PHP e MySql Fundamentos I do Alura.
+				    Manutenção códigos e biblioteca JAVA.
+
+**Pensamentos:		A 5 meses atrás quando comecei a trabalhar com LINUX e JAVA não imagina que tão cedo conseguiria ganhar algum tipo de fluidez. Tá muito massa isso!
+
+
+Dia 8: Maio 25, 2019.
+**Progresso do dia: Finalizei o Curso PHP e MySql Fundamentos I do Alura.
+
+**Pensamentos:		Muito feliz por ter feito meu primeiro projeto completo PHP e feito do deploy na internet!
+
+**Link do trabalho:	http://lojadojao-com-br.umbler.net/
+					https://github.com/jpaulopd/PHP/tree/master/Alura/PhpMysqlFundamentosI
+					
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
