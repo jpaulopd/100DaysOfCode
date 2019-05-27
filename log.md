@@ -94,6 +94,14 @@ Dia 9: Maio 26, 2019.
 					Desenho dos modelos Cascata, Protóripo e Espiral.
 **Pensamentos:		A primeira vez que vi lógica booleana foi muito difícil, mas agora já foi bem tranquilo. Sabedoria é acumular experências!
 
+
+Dia 10: Maio 27, 2019.
+**Progresso do dia: Finalizei aulas 5 e 6 da Disciplina de Engenharia de Software.
+					Manutenção em página PHP para autenticar usuário de GRUPO RESTRITO e alteração de layout de tabelas em POSTGRES.
+
+**Pensamentos:		Eureka! Finalmente consegui entender muita coisa da arquitetura de página de manutenção em PHP.
+					O desafio de TI é tentar, tentar, tentar, tentar...
+
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
