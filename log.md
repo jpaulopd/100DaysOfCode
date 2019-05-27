@@ -85,7 +85,15 @@ Dia 8: Maio 25, 2019.
 
 **Link do trabalho:	http://lojadojao-com-br.umbler.net/
 					https://github.com/jpaulopd/PHP/tree/master/Alura/PhpMysqlFundamentosI
-					
+
+
+Dia 9: Maio 26, 2019.
+**Progresso do dia: Aula 3 da Disciplina de Arquitetura e Sistemas de Computadores.
+					Exercícios de algebra booleana.
+					Aula 4 da Disciplina de Engenharia de Software.
+					Desenho dos modelos Cascata, Protóripo e Espiral.
+**Pensamentos:		A primeira vez que vi lógica booleana foi muito difícil, mas agora já foi bem tranquilo. Sabedoria é acumular experências!
+
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
