@@ -102,6 +102,10 @@ Dia 10: Maio 27, 2019.
 **Pensamentos:		Eureka! Finalmente consegui entender muita coisa da arquitetura de página de manutenção em PHP.
 					O desafio de TI é tentar, tentar, tentar, tentar...
 
+Dia 11: Maio 28, 2019.
+**Progresso do dia: Dia 11: Implantação de novas rotinas em projeto PHP.
+							Manutenção de rotinas SqlServer.
+**Pensamentos:				PHP fluindo!
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
