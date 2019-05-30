@@ -103,9 +103,20 @@ Dia 10: Maio 27, 2019.
 					O desafio de TI é tentar, tentar, tentar, tentar...
 
 Dia 11: Maio 28, 2019.
-**Progresso do dia: Dia 11: Implantação de novas rotinas em projeto PHP.
+**Progresso do dia: Implantação de novas rotinas em projeto PHP.
 							Manutenção de rotinas SqlServer.
 **Pensamentos:				PHP fluindo!
+
+Dia 12: Maio 29, 2019.
+**Progresso do dia: Finalização de implementação de melhoria de páginas PHP e ajuste em tabelas no POSTGRES para receber novos dados.
+
+**Pensamentos: Que canseira deu esse SQL.
+
+Dia 13: Maio 30, 2019.
+**Progresso do dia:	Ajuste e aprimoramento de uma consulta SQL/Postgres para gerar relatórios diários, mensais e totalizador. 
+					Iniciei desenvolvimento de rotina JAVA para a automatizar o uso dessa consulta.
+
+**Pensamentos:		A falta de foco de quem demanda o trabalho tem de ser controlada para não atrapalhar o desenvolvimento.
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
