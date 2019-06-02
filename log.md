@@ -122,7 +122,7 @@ Dia 14: Junho 01, 2019.
 **Progresso do dia: Leitura e exercícios do material das aulas de Engenheria de Software e Arquitetura de Computadores.
 					Assuntos: modelo de Prototipação e Microkernel, Shell, Deadlocks, etc.
 
-**Pensamentos: Cansaço, leituras e exercícios. Preciso de mais descanso.
+**Pensamentos: Cansaço, leituras e exercícios. Preciso de mais descanço.
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
