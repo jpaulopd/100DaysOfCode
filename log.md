@@ -118,7 +118,15 @@ Dia 13: Maio 30, 2019.
 
 **Pensamentos:		A falta de foco de quem demanda o trabalho tem de ser controlada para não atrapalhar o desenvolvimento.
 
-Dia 14: Junho 01, 2019.
+
+Dia 14: Maio 31, 2019.
+**Progresso do dia: Finalização de rotina Java de busca em banco de dados e escrita arquivo formatado em .csv, além disso, verifica o diretório por arquivos antigos. 
+					Falta implementar a execução por períodos: diários e mensais. 
+					Comecei a ler o Clean Code do Robert C. Martin.
+
+**Pensamentos:		Muito bom aprender novas abordagens para problemas que já possuo solução.
+
+Dia 15: Junho 01, 2019.
 **Progresso do dia: Leitura e exercícios do material das aulas de Engenheria de Software e Arquitetura de Computadores.
 					Assuntos: modelo de Prototipação e Microkernel, Shell, Deadlocks, etc.
 
