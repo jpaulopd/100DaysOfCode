@@ -131,6 +131,14 @@ Dia 15: Junho 01, 2019.
 					Assuntos: modelo de Prototipação e Microkernel, Shell, Deadlocks, etc.
 
 **Pensamentos: Cansaço, leituras e exercícios. Preciso de mais descanço.
+
+Dia 16: Junho 02, 2019.
+**Progresso do dia: Início curso de Javascript com Lógica de Programação do Alura.
+					Realização das aulas de 1 a 4 e exercícios.
+
+**Pensamentos:		Pegar mais leve com um curso introdutório de JavaScript que me ajudará nas manutenções de páginas do trabalho.
+
+**Link do trabalho:	https://github.com/jpaulopd/LogicaProgramacaoAlura
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
