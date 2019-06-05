@@ -127,6 +127,11 @@ Dia 17: Junho 03, 2019.
 					Início curso UML para ajudar na construção de um diagrama de classes para o curso de Engenharia de Software.
 **Pensamentos:		Todo dia uma prioridade, mas o importante é deixar de focar um problema de cada vez.
 **Link do trabalho: https://github.com/jpaulopd/UmlBasicoModelagemDeSolucoes
+
+Dia 18: Junho 04, 2019.
+**Progresso do dia: Leitura e pequenos testes em código Java de importação de arquivos.
+					Curso UML Introdução Alura videos e exercicios.
+**Link do trabalho: https://github.com/jpaulopd/UmlBasicoModelagemDeSolucoes
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
