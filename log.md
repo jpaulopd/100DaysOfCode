@@ -134,7 +134,7 @@ Dia 18: Junho 04, 2019.
 **Link do trabalho: https://github.com/jpaulopd/UmlBasicoModelagemDeSolucoes
 
 Dia 19: Junho 05, 2019.
-**Progresso do dia: Manutenção de relátorios em SQL e rotina de importação de log em JAVA.
+**Progresso do dia: Manutenção de relatórios em SQL e rotina de importação de log em JAVA.
 					Finalização de curso UML básico da Alura.
 **Pensamentos:		Urgente, preciso urgente de aprender código limpo.
 **Link do trabalho: https://github.com/jpaulopd/UmlBasicoModelagemDeSolucoes
