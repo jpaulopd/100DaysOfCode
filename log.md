@@ -132,6 +132,12 @@ Dia 18: Junho 04, 2019.
 **Progresso do dia: Leitura e pequenos testes em código Java de importação de arquivos.
 					Curso UML Introdução Alura videos e exercicios.
 **Link do trabalho: https://github.com/jpaulopd/UmlBasicoModelagemDeSolucoes
+
+Dia 19: Junho 05, 2019.
+**Progresso do dia: Manutenção de relátorios em SQL e rotina de importação de log em JAVA.
+					Finalização de curso UML básico da Alura.
+**Pensamentos:		Urgente, preciso urgente de aprender código limpo.
+**Link do trabalho: https://github.com/jpaulopd/UmlBasicoModelagemDeSolucoes
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
