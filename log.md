@@ -157,6 +157,13 @@ Dia 22: Junho 08, 2019.
 					Aulas e exercicios de Logica de Programação com Javascript.
 **Pensamentos:		Consegui entender como um gerenciador de memória controla acesso a endereços de uma memória depois de desesperar um dia atrás, mas hoje consegui sem maiores problemas, porém travei em outro ponto. Que matéria difícil.
 **Link do trabalho:	https://github.com/jpaulopd/LogicaProgramacaoAlura
+
+
+Dia 23: Junho 09, 2019.
+**Progresso do dia: Aula de Gerenciamento de memória do Sistema Operacional.
+					Aula e exercícios de Javasript, prompt(), parseInt() e Math.random.
+**Pensamentos:		Não estou conseguindo entender a lógica de endereçamento e localização de uma memória, preciso ler muito ainda.
+**Link do trabalho: https://github.com/jpaulopd/LogicaProgramacaoAlura
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
