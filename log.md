@@ -138,6 +138,25 @@ Dia 19: Junho 05, 2019.
 					Finalização de curso UML básico da Alura.
 **Pensamentos:		Urgente, preciso urgente de aprender código limpo.
 **Link do trabalho: https://github.com/jpaulopd/UmlBasicoModelagemDeSolucoes
+
+
+Dia 20: Junho 06, 2019.
+**Progresso do dia: Aula de levantamento de requisitos da Catolica Ead.
+					Manutenção de rotina de importação de log em JAVA.
+					Leitura sobre JSON para ajuste em rotina JAVA de WebService.
+**Pensamentos:		Muita coisa ao mesmo tempo, que loucura!
+
+
+Dia 21: Junho 07, 2019.
+**Progresso do dia: Aula sobre Gerenciamento de PRocessos do Sistema Operacional da Catolica EAD.
+					Manutenção de código JAVA de importação.
+**Pensamentos:		Dia longo, mas produtivo.
+
+Dia 22: Junho 08, 2019.
+**Progresso do dia: Aulas sobre Gerenciamento de memória do Sistema Operacional.
+					Aulas e exercicios de Logica de Programação com Javascript.
+**Pensamentos:		Consegui entender como um gerenciador de memória controla acesso a endereços de uma memória depois de desesperar um dia atrás, mas hoje consegui sem maiores problemas, porém travei em outro ponto. Que matéria difícil.
+**Link do trabalho:	https://github.com/jpaulopd/LogicaProgramacaoAlura
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
