@@ -164,6 +164,12 @@ Dia 23: Junho 09, 2019.
 					Aula e exercícios de Javasript, prompt(), parseInt() e Math.random.
 **Pensamentos:		Não estou conseguindo entender a lógica de endereçamento e localização de uma memória, preciso ler muito ainda.
 **Link do trabalho: https://github.com/jpaulopd/LogicaProgramacaoAlura
+
+Dia 24: Junho 10, 2019.
+**Progresso do dia: Aula e exercícios sobre Diagramas de Uso e Caso.
+					Manutenção rotina JAVA de importação em SQL Server.
+**Pensamentos:		Vou dar um tempo sobre o gerenciamento de memórias do SO. Não entra na minha cabeça.
+
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
