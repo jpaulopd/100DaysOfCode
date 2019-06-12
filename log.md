@@ -170,6 +170,11 @@ Dia 24: Junho 10, 2019.
 					Manutenção rotina JAVA de importação em SQL Server.
 **Pensamentos:		Vou dar um tempo sobre o gerenciamento de memórias do SO. Não entra na minha cabeça.
 
+Dia 25: Junho 11, 2019.
+**Progresso do dia: Aulas de Modelagem de Sistema, Análise de Orientação a Objetos, Teste de Software e Plano de projeto.
+					Implementação de melhoria em rotina Java e análise de dados em Postgres.
+**Pensamentos:		Acredito que comecei a entender como é feito o Mapeamento Direto de uma MP pelo cache.
+
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
