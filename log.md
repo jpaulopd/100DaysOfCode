@@ -175,6 +175,18 @@ Dia 25: Junho 11, 2019.
 					Implementação de melhoria em rotina Java e análise de dados em Postgres.
 **Pensamentos:		Acredito que comecei a entender como é feito o Mapeamento Direto de uma MP pelo cache.
 
+
+Dia 26: Junho 12, 2019.
+**Progresso do dia: Elaboração diagrama de classes usando o ASTAH.
+					Melhoria e ajustes em rotina JAVA.
+**Pensamentos:		Um dia tive o desafio de fazer um diagrama de classes e nem sabia errar, hoje já sei me virar ;)
+
+Dia 27: Junho 13, 2019.
+**Progresso do dia: Estudo arquitetura Neumann e Harvard.
+					Desenvolvimento rotina de importação de arquivo csv usando JAVA.
+					Ajuste página PHP.
+**Pensamentos: 		Confiança é construída errando bastante, após quase 6 meses errando muito, comecei a sentir confiança.
+
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
