@@ -198,6 +198,12 @@ Dia 29: Junho 15, 2019.
 					Aula 7 sobre estruturas de repetição de Logica de Programação Iniciante com Javascript da ALura.
 **Pensamentos:		Gerenciamento de memórias 10, João Paulo 0. Tá foda.
 **Link do trabalho:	https://github.com/jpaulopd/LogicaProgramacaoAlura
+
+Dia 30, Junho 16, 2019.
+**Progresso do dia: Aula sobre Mapeamento Direto e Associativo do cache da UNIVESP.
+					Aula e exercícios sobre manipulação de HTML usando Javascript da Alura.
+**Pensametnos:		To quase desvendando a tal da cache, que alívio.
+**Link do trabalho: https://github.com/jpaulopd/LogicaProgramacaoAlura
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
