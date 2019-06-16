@@ -187,6 +187,17 @@ Dia 27: Junho 13, 2019.
 					Ajuste página PHP.
 **Pensamentos: 		Confiança é construída errando bastante, após quase 6 meses errando muito, comecei a sentir confiança.
 
+
+Dia 28: Junho 14, 2019.
+**Progresso do dia: Ajustes diversos em servidores linux para configuração de proxy e acesso base CVS
+					Estudos de base de dados para implementação de rotina JAVA.
+**Pensamentos:		Ainda travado com mapeamento de memoria principal pela cache.
+
+Dia 29: Junho 15, 2019.
+**Progresso do dia: Mais uma tentativa de entender mapeamento direto da memoria principal pela cache.
+					Aula 7 sobre estruturas de repetição de Logica de Programação Iniciante com Javascript da ALura.
+**Pensamentos:		Gerenciamento de memórias 10, João Paulo 0. Tá foda.
+**Link do trabalho:	https://github.com/jpaulopd/LogicaProgramacaoAlura
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
