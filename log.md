@@ -204,6 +204,11 @@ Dia 30, Junho 16, 2019.
 					Aula e exercícios sobre manipulação de HTML usando Javascript da Alura.
 **Pensametnos:		To quase desvendando a tal da cache, que alívio.
 **Link do trabalho: https://github.com/jpaulopd/LogicaProgramacaoAlura
+
+Dia 31, Junho 17, 2019.
+**Progresso do dia: Aulas método associativo e conjunto associativo, paginação, swap, virtual.
+					Shell script para ajustar script de proxy no linux.
+**Pensamentos:		Dia inteiro tentando arrumar script e nada, que canseira. Memória cache tá melhorzinho.
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
