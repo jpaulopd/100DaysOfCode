@@ -209,6 +209,12 @@ Dia 31, Junho 17, 2019.
 **Progresso do dia: Aulas método associativo e conjunto associativo, paginação, swap, virtual.
 					Shell script para ajustar script de proxy no linux.
 **Pensamentos:		Dia inteiro tentando arrumar script e nada, que canseira. Memória cache tá melhorzinho.
+
+Dia 32, Junho 18, 2019.
+**Progresso do dia: Aulas sobre operações binárias, octal e hexadecimal.
+					Aulas e exercícios de testes de software.
+					Configuração de proxy no Ubuntu.
+**Pensamentos:		Fazer devagar para não fazer duas. Dica importante.
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
