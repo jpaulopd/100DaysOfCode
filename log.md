@@ -210,11 +210,19 @@ Dia 31, Junho 17, 2019.
 					Shell script para ajustar script de proxy no linux.
 **Pensamentos:		Dia inteiro tentando arrumar script e nada, que canseira. Memória cache tá melhorzinho.
 
+
 Dia 32, Junho 18, 2019.
 **Progresso do dia: Aulas sobre operações binárias, octal e hexadecimal.
 					Aulas e exercícios de testes de software.
 					Configuração de proxy no Ubuntu.
 **Pensamentos:		Fazer devagar para não fazer duas. Dica importante.
+
+
+Dia 32, Junho 19, 2019.
+**Progresso do dia: Aula 9 sobre array em Logica de Programação com Javascript da Alura.
+					Configuração de Windows Share mouting point no linux, restrições de uso e propriedade.
+**Pensamentos:		Pequenos ajustes podem levar horas, credo.
+**Link do trabalho:	https://github.com/jpaulopd/LogicaProgramacaoAlura
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
