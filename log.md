@@ -218,7 +218,7 @@ Dia 32, Junho 18, 2019.
 **Pensamentos:		Fazer devagar para não fazer duas. Dica importante.
 
 
-Dia 32, Junho 19, 2019.
+Dia 33, Junho 19, 2019.
 **Progresso do dia: Aula 9 sobre array em Logica de Programação com Javascript da Alura.
 					Configuração de Windows Share mouting point no linux, restrições de uso e propriedade.
 **Pensamentos:		Pequenos ajustes podem levar horas, credo.
