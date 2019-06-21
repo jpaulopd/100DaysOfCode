@@ -223,6 +223,13 @@ Dia 33, Junho 19, 2019.
 					Configuração de Windows Share mouting point no linux, restrições de uso e propriedade.
 **Pensamentos:		Pequenos ajustes podem levar horas, credo.
 **Link do trabalho:	https://github.com/jpaulopd/LogicaProgramacaoAlura
+
+
+Dia 34, Junho, 2019.
+**Progresso do dia: Finalização curso de Logica de Programação com Javascript da Alura.
+					Leitura material aula 7 sobre ponto flutuante da Catolica.
+**Pensamentos		Devagar vai indo as aulas sobre Arquitetura de computadores.
+**Link do trabalho:	https://github.com/jpaulopd/LogicaProgramacaoAlura
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
