@@ -230,6 +230,11 @@ Dia 34, Junho, 2019.
 					Leitura material aula 7 sobre ponto flutuante da Catolica.
 **Pensamentos		Devagar vai indo as aulas sobre Arquitetura de computadores.
 **Link do trabalho:	https://github.com/jpaulopd/LogicaProgramacaoAlura
+
+
+Dia 35, Junho, 2019.
+**Progresso do dia: Finalização aulas sobre ponto flutuante, normalização de matissa e sistemas de arquivos.
+**Pensamentos:		Preciso aplicar e fazer MUITOS exercícios para fixar.
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
