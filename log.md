@@ -235,6 +235,12 @@ Dia 34, Junho, 2019.
 Dia 35, Junho, 2019.
 **Progresso do dia: Finalização aulas sobre ponto flutuante, normalização de matissa e sistemas de arquivos.
 **Pensamentos:		Preciso aplicar e fazer MUITOS exercícios para fixar.
+
+
+Dia 36, Junho 2019.
+**Progresso do dia: Início do curso Alura de Java: pacotes e java.lang.
+					3 Exercícios sobre memórias cache.
+**Pensamentos: 		Tem dias que não entendo meu nome quase, serei um asno?
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
