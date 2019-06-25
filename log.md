@@ -218,7 +218,7 @@ Dia 32, Junho 18, 2019.
 **Pensamentos:		Fazer devagar para não fazer duas. Dica importante.
 
 
-Dia 33, Junho 19, 2019.
+Dia 33, Junho, 2019.
 **Progresso do dia: Aula 9 sobre array em Logica de Programação com Javascript da Alura.
 					Configuração de Windows Share mouting point no linux, restrições de uso e propriedade.
 **Pensamentos:		Pequenos ajustes podem levar horas, credo.
@@ -237,10 +237,20 @@ Dia 35, Junho, 2019.
 **Pensamentos:		Preciso aplicar e fazer MUITOS exercícios para fixar.
 
 
-Dia 36, Junho 2019.
+Dia 36, Junho, 2019.
 **Progresso do dia: Início do curso Alura de Java: pacotes e java.lang.
 					3 Exercícios sobre memórias cache.
 **Pensamentos: 		Tem dias que não entendo meu nome quase, serei um asno?
+
+
+Dia 37, Junho, 2019.
+**Progresso do dia: Aula 1 e exercícios da Alura pacotes e java.lang. 
+**Pensamentos:      Tem dia que não rende, custei a fazer o exercícios e ainda deu errado a organização do workspace: couldnt find main class.
+
+Dia 38, Junho, 2019.
+**Progresso do dia: Aula 2 e exercícios da Alura pocotes e java.lang: public, protected, <package private> e private.
+		    Resumo das aulas 1 e 2 de Engenharia de Software, preparando para prova.
+**Pensamentos:      Hoje as classes voltaram a funcionar após baixar todo o projeto novamente e configurar a Library do Java 8 no Eclipse. Finalmente a coisa rendeu.
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
