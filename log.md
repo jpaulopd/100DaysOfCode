@@ -248,9 +248,23 @@ Dia 37, Junho, 2019.
 **Pensamentos:      Tem dia que não rende, custei a fazer o exercícios e ainda deu errado a organização do workspace: couldnt find main class.
 
 Dia 38, Junho, 2019.
-**Progresso do dia: Aula 2 e exercícios da Alura pocotes e java.lang: public, protected, <package private> e private.
+**Progresso do dia: Aula 2 e exercícios da Alura pacotes e java.lang: public, protected, <package private> e private.
 		    Resumo das aulas 1 e 2 de Engenharia de Software, preparando para prova.
 **Pensamentos:      Hoje as classes voltaram a funcionar após baixar todo o projeto novamente e configurar a Library do Java 8 no Eclipse. Finalmente a coisa rendeu.
+
+
+Dia 39, Junho, 2019.
+**Progresso do dia: Aula 3 e exercícios da Alura pacotes e java.lang: javadoc, jar e jar executável.
+		    Resumo das aulas 3 e 4 de Engenharia de Software, metodos ageis e metodos tradicionais.
+		    Finalização máquina de produção trabalho, manutenção código java implementação método que abstrai linguagem local da máquina com uso de vetor.
+**Pensamentos:	    Tem uns dias que tudo funciona e como é bom perceber que os caminhos do conhecimentos vão apenas ramificando e ganhando força!
+	
+	
+	
+	
+	
+	
+	
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
