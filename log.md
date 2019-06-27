@@ -260,7 +260,10 @@ Dia 39, Junho, 2019.
 **Pensamentos:	    Tem uns dias que tudo funciona e como é bom perceber que os caminhos do conhecimentos vão apenas ramificando e ganhando força!
 	
 	
-	
+Dia 40, Junho, 2019.
+**Progresso do dia: Manutenção em relatórios que consomem consultas em SQL e rotinas JAVA.
+		    Resumão de requisitos funcionais e não funcionais, diagramas UML e projetos de testse.
+**Pensamentos:	    Dia longo, mas super produtivo.
 	
 	
 	
@@ -285,13 +288,3 @@ Dia 39, Junho, 2019.
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
 
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
--->
