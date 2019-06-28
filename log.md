@@ -218,55 +218,57 @@ Dia 32, Junho 18, 2019.
 **Pensamentos:		Fazer devagar para não fazer duas. Dica importante.
 
 
-Dia 33, Junho, 2019.
+Dia 33, Junho 19, 2019.
 **Progresso do dia: Aula 9 sobre array em Logica de Programação com Javascript da Alura.
 					Configuração de Windows Share mouting point no linux, restrições de uso e propriedade.
 **Pensamentos:		Pequenos ajustes podem levar horas, credo.
 **Link do trabalho:	https://github.com/jpaulopd/LogicaProgramacaoAlura
 
 
-Dia 34, Junho, 2019.
+Dia 34, Junho 20, 2019.
 **Progresso do dia: Finalização curso de Logica de Programação com Javascript da Alura.
 					Leitura material aula 7 sobre ponto flutuante da Catolica.
 **Pensamentos		Devagar vai indo as aulas sobre Arquitetura de computadores.
 **Link do trabalho:	https://github.com/jpaulopd/LogicaProgramacaoAlura
 
 
-Dia 35, Junho, 2019.
+Dia 35, Junho 21, 2019.
 **Progresso do dia: Finalização aulas sobre ponto flutuante, normalização de matissa e sistemas de arquivos.
 **Pensamentos:		Preciso aplicar e fazer MUITOS exercícios para fixar.
 
 
-Dia 36, Junho, 2019.
+Dia 36, Junho 22, 2019.
 **Progresso do dia: Início do curso Alura de Java: pacotes e java.lang.
 					3 Exercícios sobre memórias cache.
 **Pensamentos: 		Tem dias que não entendo meu nome quase, serei um asno?
 
 
-Dia 37, Junho, 2019.
+Dia 37, Junho 23, 2019.
 **Progresso do dia: Aula 1 e exercícios da Alura pacotes e java.lang. 
 **Pensamentos:      Tem dia que não rende, custei a fazer o exercícios e ainda deu errado a organização do workspace: couldnt find main class.
 
-Dia 38, Junho, 2019.
+Dia 38, Junho 24, 2019.
 **Progresso do dia: Aula 2 e exercícios da Alura pacotes e java.lang: public, protected, <package private> e private.
 		    Resumo das aulas 1 e 2 de Engenharia de Software, preparando para prova.
 **Pensamentos:      Hoje as classes voltaram a funcionar após baixar todo o projeto novamente e configurar a Library do Java 8 no Eclipse. Finalmente a coisa rendeu.
 
 
-Dia 39, Junho, 2019.
+Dia 39, Junho 25, 2019.
 **Progresso do dia: Aula 3 e exercícios da Alura pacotes e java.lang: javadoc, jar e jar executável.
 		    Resumo das aulas 3 e 4 de Engenharia de Software, metodos ageis e metodos tradicionais.
 		    Finalização máquina de produção trabalho, manutenção código java implementação método que abstrai linguagem local da máquina com uso de vetor.
 **Pensamentos:	    Tem uns dias que tudo funciona e como é bom perceber que os caminhos do conhecimentos vão apenas ramificando e ganhando força!
 	
 	
-Dia 40, Junho, 2019.
+Dia 40, Junho 26, 2019.
 **Progresso do dia: Manutenção em relatórios que consomem consultas em SQL e rotinas JAVA.
 		    Resumão de requisitos funcionais e não funcionais, diagramas UML e projetos de testse.
 **Pensamentos:	    Dia longo, mas super produtivo.
 	
 	
-	
+Dia 41, Junho 27, 2019.
+**Progresso do dia: Leitura do java.util.Comparator do método compare(t o1, t o2) em que retorna -1, 0 ou 1 após comparar os elementos o1 e o2 e verificar se é maior, menor ou igual ao outro.
+**Pensamentos:	    Demorei a entender a implementação, fiquei com algumas dúvidas, mas já é um início.
 	
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
