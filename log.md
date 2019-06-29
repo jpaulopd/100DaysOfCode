@@ -269,7 +269,11 @@ Dia 40, Junho 26, 2019.
 Dia 41, Junho 27, 2019.
 **Progresso do dia: Leitura do java.util.Comparator do método compare(t o1, t o2) em que retorna -1, 0 ou 1 após comparar os elementos o1 e o2 e verificar se é maior, menor ou igual ao outro.
 **Pensamentos:	    Demorei a entender a implementação, fiquei com algumas dúvidas, mas já é um início.
-	
+
+
+Dia 42, Junho 28, 2019.
+**Progresso do dia: Debug em rotina java de importação de csv que passava uma string para uma data (java.util.Date.parse()) que passava para um Timestamp (java.sql.Timestamp).
+**Pensamentos:		Após algum tempo a documentação Java começa a ser mais amigável para leitura e até proveitosa, rs	
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
