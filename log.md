@@ -273,7 +273,14 @@ Dia 41, Junho 27, 2019.
 
 Dia 42, Junho 28, 2019.
 **Progresso do dia: Debug em rotina java de importação de csv que passava uma string para uma data (java.util.Date.parse()) que passava para um Timestamp (java.sql.Timestamp).
-**Pensamentos:		Após algum tempo a documentação Java começa a ser mais amigável para leitura e até proveitosa, rs	
+**Pensamentos:		Após algum tempo a documentação Java começa a ser mais amigável para leitura e até proveitosa, rs
+
+
+Dia 43, Junho 29, 2019.
+**Progresso do dia: Curso alura sobre java.lang.String, Aula 4 e exercícios sobre métodos trim(), arAt, contains, isEmpty, length, indexOf, replace e java.lang.StringBuilder .
+		    Leitura material sobre Arquitetura de computadores, maquina de Von Neumann, tipos de registradores (contador de programas, registrador instruções, registrador de endereços de memoria, registrador de dados), pipeline, modelo RISC X CISC, ciclo de instrução do controlador de processaemtno(fetch, decode, execute).
+**Pensamentos:	    Aprender é um caminho em que vc vai coletando pequenas pedras e colocando no seu bolso, apesar do peso durante a caminhada, lá na frente começar aparecer um sentido em ter todas em elas consigo.
+
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
