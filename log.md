@@ -281,6 +281,12 @@ Dia 43, Junho 29, 2019.
 		    Leitura material sobre Arquitetura de computadores, maquina de Von Neumann, tipos de registradores (contador de programas, registrador instruções, registrador de endereços de memoria, registrador de dados), pipeline, modelo RISC X CISC, ciclo de instrução do controlador de processaemtno(fetch, decode, execute).
 **Pensamentos:	    Aprender é um caminho em que vc vai coletando pequenas pedras e colocando no seu bolso, apesar do peso durante a caminhada, lá na frente começar aparecer um sentido em ter todas em elas consigo.
 
+
+Dia 44, Junho 30, 2019.
+**Progresso do dia: Curso Alura sobre java.lang: análise do System.out.println(), em que System é classe, .out é atributo estatico e println() um método. A partir daí leitura da classe Object para aplicação de sobrecarga (Overide) do método toString para aprofundar conceito de herança e polimorfismo.
+		    Exercícios sobre arquitetura de computadores, conversão de bases e operações booleanas.
+**Pensamentos:	    Chimas ajudou muito em fazer tanta coisa.
+
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
