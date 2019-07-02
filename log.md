@@ -287,6 +287,11 @@ Dia 44, Junho 30, 2019.
 		    Exercícios sobre arquitetura de computadores, conversão de bases e operações booleanas.
 **Pensamentos:	    Chimas ajudou muito em fazer tanta coisa.
 
+
+Dia 45. Julho 1, 2019.
+**Progresso do dia: Dia 45: Configuração de proxy para cliente email linux com server Exchange.
+					Testes de unidade em rotinas java. 
+**Pensamentos:				Quase metade do desafio cumprido, o ano tá voando!
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
