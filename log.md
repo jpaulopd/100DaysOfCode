@@ -299,6 +299,12 @@ Dia 46, Julho 2, 2019.
 					Testes em rotinas java e reescrita de consultas SQL.
 					Início curso Alura java.util sobre arrays.
 **Pensamentos:		Finalmente cheguei na parte que mais tem dado canseira no Java, agora vai!
+
+
+Dia 47, Julho 3, 2019.
+**Progresso do dia: Curso java.util aula arrays, referência genericas do tipo Object e o type cast explícito necessário.
+**Pensamentos:	    Finalmente entendi o public static void main (String [ ] args), em que String é um array chamado de args 🤪
+
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
@@ -309,13 +315,6 @@ Dia 46, Julho 2, 2019.
 
 **Link to work:** [Calculator App](http://www.example.com)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+-->
 
 
