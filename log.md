@@ -305,6 +305,16 @@ Dia 47, Julho 3, 2019.
 **Progresso do dia: Curso java.util aula arrays, referência genericas do tipo Object e o type cast explícito necessário.
 **Pensamentos:	    Finalmente entendi o public static void main (String [ ] args), em que String é um array chamado de args 🤪
 
+
+Dia 48, Julho 4, 2019.
+**Progresso do dia: Refatoração de código que não trazia os resultados esperados por conta de uma entrada de um banco de dados que pedia um campo não fosse nulo, mas na verdade da tabela o campo era vazio, logo foi necessário reprocessar a tabela para remover os vazio e adicionar nulo, além disso foi necessário ajustar o regex_replace do Postgresql para remover todos os excesso de espaços brancos dentro de uma String e deixar somente uma regex_replace ('texto com    muitos    espaços', '\s+', ' ', 'g').
+**Pensamentos:     As vezes é melhor fazer devagar e entender do que fazer rápido para resolver logo e nunca aprender nada.
+
+
+Dia 49, Julho 5, 2019.
+**Progresso do dia: Curso Alura sobre java.util.ArrayList, Métodos (size, get, remove), foreach (Object o : lista) {}, generics do Arraylist<STRING> ou ArrayLista<Object>.
+	            Ajuste em código legado que possui vários whiles e if aninhados que trabalham com lists e correção em banco de dados removendo acentos de um campo e escrevendo os mesmo registros em outra coluna UPDATE table SET columnB = unaccent(ColumnA).
+**Pensamentos:      Além da satisfação de entender o tal ArrayList e conseguir uma solução eficaz para o problema de coluna com campos com acento, fui convocado para matricular no curso de Sistemas para Internet do Instituto Federal de Brasília.
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
