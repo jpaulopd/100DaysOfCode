@@ -315,6 +315,14 @@ Dia 49, Julho 5, 2019.
 **Progresso do dia: Curso Alura sobre java.util.ArrayList, Métodos (size, get, remove), foreach (Object o : lista) {}, generics do Arraylist<STRING> ou ArrayLista<Object>.
 	            Ajuste em código legado que possui vários whiles e if aninhados que trabalham com lists e correção em banco de dados removendo acentos de um campo e escrevendo os mesmo registros em outra coluna UPDATE table SET columnB = unaccent(ColumnA).
 **Pensamentos:      Além da satisfação de entender o tal ArrayList e conseguir uma solução eficaz para o problema de coluna com campos com acento, fui convocado para matricular no curso de Sistemas para Internet do Instituto Federal de Brasília.
+	
+	
+Dia 50, Julho 6, 2019.
+**Progresso do dia: Curso ALura sobre java.util, hoje foi o método equals do ArrayList e sua sobreescrita (Override) por método de uma classe própria public void equals(Object ref), diferença do ArrayList do java.util,LinkedList (o primeiro trabalha índices, logo sua removação é necessário reordenar todo o array, no segundo um posição fica referenciada as demais proximas) e que ambos compartilham dos mesmo métodos, pois são uma implementação do java.util.List (Interface de listas).
+**Pensamentos:      Muito bom chegar na métada do desafio e perceber o quanto cresci em conhecimento nesses quase 2 meses, fabuloso o progresso que é feito todo dia quando se faz um pouco de cada vez.
+
+
+
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
