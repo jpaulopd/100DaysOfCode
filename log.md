@@ -322,6 +322,11 @@ Dia 50, Julho 6, 2019.
 **Pensamentos:      Muito bom chegar na métada do desafio e perceber o quanto cresci em conhecimento nesses quase 2 meses, fabuloso o progresso que é feito todo dia quando se faz um pouco de cada vez.
 
 
+Dia 51, Julho 7, 2019.
+**Progresso do dia:  java.util sobre Vectors ser threadsafe, roda em paralelismo main(), java.util.Collections sendo a classe que origina a util.List e util.Set, List aceita índice e itens duplicados, já Set não aceita itens duplicados. 
+**Pensamentos:	     Muita coisa fazendo sentindo.
+
+
 
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
