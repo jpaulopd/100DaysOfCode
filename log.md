@@ -327,6 +327,14 @@ Dia 51, Julho 7, 2019.
 **Pensamentos:	     Muita coisa fazendo sentindo.
 
 
+Dia 52, Julho 8, 2019.
+**Progresso do dia: Curso Alura java.util, WRAPPERs, java.util.Number é o objeto mãe de todos os objetivos que embrulham os demais "números" primitivos. No java, todos os primitivos são embrulhados (autoboxing) e desembrulhados (unboxing) qndo necessário.
+
+
+Dia 53, Julho 9, 2019.
+**Progresso do dia: Finalmente minhas melhorias em rotina java funcionaram sem erros, o que era uma implementação de um campo tornou-se um problemão.
+		    Curso alura sobre java.util.list método .sort que utiliza como parâmetro o método comparator <T> do java.util.Collections, sendo <T> o tipo do objeto.
+**Pensamentos:	    Novas rotinas e novas responsabilidades em trabalhar com TI, cada vez mais gostando da área.
 
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
