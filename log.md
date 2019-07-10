@@ -336,6 +336,15 @@ Dia 53, Julho 9, 2019.
 		    Curso alura sobre java.util.list método .sort que utiliza como parâmetro o método comparator <T> do java.util.Collections, sendo <T> o tipo do objeto.
 **Pensamentos:	    Novas rotinas e novas responsabilidades em trabalhar com TI, cada vez mais gostando da área.
 
+
+Dia 54, Julho 10, 2019.
+**Progresso do dia: Classes Comparator, Comparable, métodos sort do Array, do Collections e implementação por Override direto na minha classe do método compareTo da Comparable.
+		    Criação de código SQL com diversas subqueryes e linha de soma de valores, além da conversão de valores.
+		    Manutenção de servidores e bancos de dados.
+Pensamentos:        A cada dia aprendendo uma novidade, hoje comecei a entender os build path paths do eclipse.
+
+
+
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
