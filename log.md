@@ -328,12 +328,10 @@ Dia 51, Julho 7, 2019.
 
 
 Dia 52, Julho 8, 2019.
-<<<<<<< HEAD
 **Progresso do dia:	Alura java.util, WRAPPERs, java.util.Number é o objeto mãe de todos os objetivos que embrulham os demais "números" primitivos.
 					No java, todos os primitivos são embrulhados (autoboxing) e desembrulhados (unboxing) qndo necessário.
 					Ajuste em rotina JAVA em que o SQL estava estava com bug.
 **Pensamentos:		Quase uma semana ajustando essa rotina, vamos ver se amanhã ela vai estar funcionando.
-
 
 
 Dia 53, Julho 9, 2019.
@@ -349,8 +347,11 @@ Dia 54, Julho 10, 2019.
 Pensamentos:        A cada dia aprendendo uma novidade, hoje comecei a entender os build path paths do eclipse.
 
 
+Dia 55, Julho 11, 2019.
+**Progresso do dia: Preparando para férias tive de migrar todas minhas rotinas para servidor de produção, fazer pontos de montagem, configurar crontab, ajustar shell script de reinicialização e ainda ficaram classes JAVA para trás.
+					Alura finalização do curso java.util com chave de ouro, aprendendo sobre classes anônimas e lambdas.
+**Pensamentos:		Entender sobre lambdas hoje me fez ter o insight de como refazer o método da classe que não está compilando em produção devido o lambda estar disponível apenas no Java 8 e na máquina de produção rodar apenas o Java 6.
 
->>>>>>> 65a2973fcb47283e593128abd9424933e5193a42
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
