@@ -327,7 +327,11 @@ Dia 51, Julho 7, 2019.
 **Pensamentos:	     Muita coisa fazendo sentindo.
 
 
-
+Dia 52, Julho 8, 2019.
+**Progresso do dia:	Alura java.util, WRAPPERs, java.util.Number é o objeto mãe de todos os objetivos que embrulham os demais "números" primitivos.
+					No java, todos os primitivos são embrulhados (autoboxing) e desembrulhados (unboxing) qndo necessário.
+					Ajuste em rotina JAVA em que o SQL estava estava com bug.
+**Pensamentos:		Quase uma semana ajustando essa rotina, vamos ver se amanhã ela vai estar funcionando.
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
