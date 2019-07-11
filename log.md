@@ -328,10 +328,29 @@ Dia 51, Julho 7, 2019.
 
 
 Dia 52, Julho 8, 2019.
+<<<<<<< HEAD
 **Progresso do dia:	Alura java.util, WRAPPERs, java.util.Number é o objeto mãe de todos os objetivos que embrulham os demais "números" primitivos.
 					No java, todos os primitivos são embrulhados (autoboxing) e desembrulhados (unboxing) qndo necessário.
 					Ajuste em rotina JAVA em que o SQL estava estava com bug.
 **Pensamentos:		Quase uma semana ajustando essa rotina, vamos ver se amanhã ela vai estar funcionando.
+
+
+
+Dia 53, Julho 9, 2019.
+**Progresso do dia: Finalmente minhas melhorias em rotina java funcionaram sem erros, o que era uma implementação de um campo tornou-se um problemão.
+		    Curso alura sobre java.util.list método .sort que utiliza como parâmetro o método comparator <T> do java.util.Collections, sendo <T> o tipo do objeto.
+**Pensamentos:	    Novas rotinas e novas responsabilidades em trabalhar com TI, cada vez mais gostando da área.
+
+
+Dia 54, Julho 10, 2019.
+**Progresso do dia: Classes Comparator, Comparable, métodos sort do Array, do Collections e implementação por Override direto na minha classe do método compareTo da Comparable.
+		    Criação de código SQL com diversas subqueryes e linha de soma de valores, além da conversão de valores.
+		    Manutenção de servidores e bancos de dados.
+Pensamentos:        A cada dia aprendendo uma novidade, hoje comecei a entender os build path paths do eclipse.
+
+
+
+>>>>>>> 65a2973fcb47283e593128abd9424933e5193a42
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
