@@ -358,6 +358,13 @@ Dia 56, Julho 12, 2019.
                     Finalização de migração rotinas JAVA de máquina local para máquina remota, foi necessário remover lambdas de array lists e ajustar returns de funções defasados.
 **Pensamentos:      Férias, mas já com compromissos agendados para o retorno.
 
+
+Dia 57, Julho 13, 2019.
+**Progresso do dia: Início curso java.io da Alura, entendi a entrutura de classes para entrada de dados que são a FileInputStream, InputSreamReader e BufferedReader.
+					A FileInputStream extende a classe InputStream, recebendo os bytes abertos.
+					A InputSreamReader e a BufferedReader extendem a classe Reader, sendo o primeiro por receber os dados em bytes e o segundo por descodificar em palavras ou Strings.
+					Entendi também que os erros acontecem basicamente em dois momentos que é a não localização do arquivo e o erro na conversão de bytes para palavras por conta de caracteres nulos.
+**Pensamentos:		Esse curso vai ajudar muito no trabalho.
  
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
