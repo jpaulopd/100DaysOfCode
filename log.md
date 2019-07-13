@@ -352,6 +352,13 @@ Dia 55, Julho 11, 2019.
 					Alura finalização do curso java.util com chave de ouro, aprendendo sobre classes anônimas e lambdas.
 **Pensamentos:		Entender sobre lambdas hoje me fez ter o insight de como refazer o método da classe que não está compilando em produção devido o lambda estar disponível apenas no Java 8 e na máquina de produção rodar apenas o Java 6.
 
+
+Dia 56, Julho 12, 2019.
+**Progresso do dia: Manutenção de servidores remotos, rotinas em VB no Access e Blockings PIDs no Postgresql.
+                    Finalização de migração rotinas JAVA de máquina local para máquina remota, foi necessário remover lambdas de array lists e ajustar returns de funções defasados.
+**Pensamentos:      Férias, mas já com compromissos agendados para o retorno.
+
+ 
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
