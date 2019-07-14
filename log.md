@@ -366,6 +366,12 @@ Dia 57, Julho 13, 2019.
 					Entendi também que os erros acontecem basicamente em dois momentos que é a não localização do arquivo e o erro na conversão de bytes para palavras por conta de caracteres nulos.
 **Pensamentos:		Esse curso vai ajudar muito no trabalho.
  
+ 
+ Dia 58, Julho 14, 2019.
+**Progresso do dia: Aula 2 curso ALura java.io sobre a classe abstrata OutputStream e suas implementações FileOutputStream, System.out e Socket.
+					Classe abstrata Writer e suas classes de implemtação OutputStreamWriter (caracteres para bytes) e BufferedWriter (escrita bytes).
+**Pensamentos:		Entender esses fundamentos de processamento de dados vai facilitar muito daqui para frente meu dia-a-dia.					 
+
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
