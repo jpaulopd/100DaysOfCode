@@ -372,6 +372,15 @@ Dia 57, Julho 13, 2019.
 					Classe abstrata Writer e suas classes de implemtação OutputStreamWriter (caracteres para bytes) e BufferedWriter (escrita bytes).
 **Pensamentos:		Entender esses fundamentos de processamento de dados vai facilitar muito daqui para frente meu dia-a-dia.					 
 
+
+Dia 59, Julho 15, 2109.
+**Progresso do dia: Aula 3 curso Alura java.io sobre escrita de arquivos.
+					Escrita direta, sem classes envelopes, com o uso do FileWriter método write e System.Fileseparator().
+					Classe PrintWriter e método print e println(para pular linhas).
+					Classe PrintStream e método print e println.
+					System.currentTimeMillis() para medir a quantidade de milisegundos decorrentes desde 1 janeiro de 1970 até o momento atual, serve para medir o tempo de execução de uma aplicação.
+**Pensamentos:		Ansioso para aprender, aprender e aprender!
+
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
