@@ -389,7 +389,15 @@ Dia 60, Julho 16, 2019.
 **Pensamentos:		Cada vez mais gostando de Java!
 
 
-
+Dia 61, Julho 17, 2019.
+**Progresso do dia: Aula 5 curso java.io Alura sobre enconding e UNICODE.
+					O Unicode trabalha com os codepoints que são mapeamentos de todos os caracteres de diversas linguas naturais.
+					Para cada codepoint existe um mapeamento de caracteres conhecido por Enconding, que faz a transformação dos caracteres em bytes.
+					Cada sistema operacional possui por padrão uma tabela de caracteres ou Charset ou Enconding, sendo UTF-8 para linux/Mac e windows-1232 do Windows.
+					A classe string, método codePointAt() mostra qual o código relacionado ao caracteres informado.
+					A classe Charset, método defaultCharset.displayName mostra o nome do charset utilizado por padrão.
+					É possível passar um segundo parâmetro nos construtores das classes String, InputStreamReader e PrintWriter para definir o Enconding a ser utilizado.
+**Pensamentos:		Não entendi tudo o que poderia, mas já foi bastante esclarecedor esse tópico.			
 
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
