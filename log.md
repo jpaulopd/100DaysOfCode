@@ -367,19 +367,29 @@ Dia 57, Julho 13, 2019.
 **Pensamentos:		Esse curso vai ajudar muito no trabalho.
  
  
- Dia 58, Julho 14, 2019.
+Dia 58, Julho 14, 2019.
 **Progresso do dia: Aula 2 curso ALura java.io sobre a classe abstrata OutputStream e suas implementações FileOutputStream, System.out e Socket.
 					Classe abstrata Writer e suas classes de implemtação OutputStreamWriter (caracteres para bytes) e BufferedWriter (escrita bytes).
 **Pensamentos:		Entender esses fundamentos de processamento de dados vai facilitar muito daqui para frente meu dia-a-dia.					 
 
 
-Dia 59, Julho 15, 2109.
+Dia 59, Julho 15, 2019.
 **Progresso do dia: Aula 3 curso Alura java.io sobre escrita de arquivos.
 					Escrita direta, sem classes envelopes, com o uso do FileWriter método write e System.Fileseparator().
 					Classe PrintWriter e método print e println(para pular linhas).
 					Classe PrintStream e método print e println.
 					System.currentTimeMillis() para medir a quantidade de milisegundos decorrentes desde 1 janeiro de 1970 até o momento atual, serve para medir o tempo de execução de uma aplicação.
 **Pensamentos:		Ansioso para aprender, aprender e aprender!
+
+
+Dia 60, Julho 16, 2019.
+**Progresso do dia:	Aula 4 curso java.io Alura sobre leitura arquivos .csv usando classe Scanner, métodos hasNextLine para estrutura while, useDelimiter(",") para identificar padrão, next() para ler linha ou valores.
+					Classe Locale e métodos .REGIAO (exemplo US) para usar os padrões da região de vírgulas e acentos.
+					Classe String e métodos format(padrão, valores) para formatar a saída. Exemplo %20s recebe valores de string e destina 20 espaços, #08.2f recebe um float de 8 dígitos inteiros e 2 dígitos fracionários.
+**Pensamentos:		Cada vez mais gostando de Java!
+
+
+
 
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
