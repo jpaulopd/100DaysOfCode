@@ -399,6 +399,17 @@ Dia 61, Julho 17, 2019.
 					É possível passar um segundo parâmetro nos construtores das classes String, InputStreamReader e PrintWriter para definir o Enconding a ser utilizado.
 **Pensamentos:		Não entendi tudo o que poderia, mas já foi bastante esclarecedor esse tópico.			
 
+
+Dia 62, Julho 18, 2019.
+**Progresso do dia: Aula 6 curso java.io Alura sobre serialização de objeto com base na UID da classe e a biblioteca é derivada da java.io.Serializable.
+					A serialização ocorre quando convertemos objetos para bits e o contrário é conhecido por deserialização.
+					A implementação da serialização ocorre por meio da Classe ObjectOutputStream e o método writeObject().
+					A implementação da deserialização ocorre por meio da Classe InputObjectStream e o método readObject().
+					A serialização deve ser implemetada tanto na classe mãe (herança) quanto nas associadas.
+					Existe a palavra chave transient para excluir um objeto de ser serializado.
+					É boa prática escreve o atributo serialVersionUID na classe a ser serializada e essa versão fica salva no arquivo binário, cada não seja explícito o própria JAVA faz isso.
+**Pensamentos:		Não tive experiência em que utilizaria isso, mas foi um tópico para uma hora que precisar, pois não é simples.					
+					
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
