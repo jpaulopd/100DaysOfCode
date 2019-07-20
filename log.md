@@ -409,7 +409,14 @@ Dia 62, Julho 18, 2019.
 					Existe a palavra chave transient para excluir um objeto de ser serializado.
 					É boa prática escreve o atributo serialVersionUID na classe a ser serializada e essa versão fica salva no arquivo binário, cada não seja explícito o própria JAVA faz isso.
 **Pensamentos:		Não tive experiência em que utilizaria isso, mas foi um tópico para uma hora que precisar, pois não é simples.					
-					
+
+
+Dia 63, Julho 19, 2019.
+**Progresso do dia: Início curso java dominando Collections da Alura.
+					Review ArrayList método add(), remove(), for(string: arraylist), arraylist.get(index) e arraylist.forEach(string -> {iteração};) do Java8.
+					Package Collections, método sort() que organiza em ordem alfabética.
+**Pensamentos:		Sempre aprendendo um pouco mais e me sentindo mais confiante. Dominar o arraylist tem me ajudado demais no dia-a-dia.					
+
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
