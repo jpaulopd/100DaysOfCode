@@ -415,7 +415,16 @@ Dia 63, Julho 19, 2019.
 **Progresso do dia: Início curso java dominando Collections da Alura.
 					Review ArrayList método add(), remove(), for(string: arraylist), arraylist.get(index) e arraylist.forEach(string -> {iteração};) do Java8.
 					Package Collections, método sort() que organiza em ordem alfabética.
-**Pensamentos:		Sempre aprendendo um pouco mais e me sentindo mais confiante. Dominar o arraylist tem me ajudado demais no dia-a-dia.					
+**Pensamentos:		Sempre aprendendo um pouco mais e me sentindo mais confiante. Dominar o arraylist tem me ajudado demais no dia-a-dia.
+
+
+Dia 64, Julho 20, 2019.
+**Progresso do dia: Aula 2 curso java dominando Collections da Alura.
+					Hoje foi sobre lista de objetos, no casa, a classe Aula {} com dois atributos e dois métodos.
+					Override do método toString da classe String para retornar o this.titutlo e this.tempo ao ser usado o sysout em outra classe.
+					Override do método compareTo da Classe Comparable<T> para organizar em ordem alfabética usando o Collections.sort(arraylist).
+					Utilização de um segundo método de comparação com base no arraylist.sort(arraylist, Comparator.comparing(Classe::método).
+**Pensamentos:		Muitas informações e talvez não tenha profundamente todos os elementos, mas é só na prática que vou absorver melhor.					
 
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
