@@ -426,6 +426,14 @@ Dia 64, Julho 20, 2019.
 					Utilização de um segundo método de comparação com base no arraylist.sort(arraylist, Comparator.comparing(Classe::método).
 **Pensamentos:		Muitas informações e talvez não tenha profundamente todos os elementos, mas é só na prática que vou absorver melhor.					
 
+
+Dia 65, Julho 21, 2019.
+**Progresso do dia: Aula 3 curso java dominando COllections da ALura.
+					Aula sobre boas práticas em Orientação a Objetos.
+					Utilização de classes genéricas ao invés tipos mais específicos, no caso, utilizar uma List<> ao invés de ArrayList<> ou LinkedList<>.
+					Utilizar o método Collections.unmodifiablelist() para retornar apenas uma cópia de um atributo do tipo List<>.
+					Diferença entre ArrayList e LinkedList, o primeiro utilizado o índice para realizar buscas rápidas, porém é lento para remover e reordenar, o segundo é rápido para reordenar e remover, porém lento para localizar elementos.
+					
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
