@@ -428,12 +428,22 @@ Dia 64, Julho 20, 2019.
 
 
 Dia 65, Julho 21, 2019.
-**Progresso do dia: Aula 3 curso java dominando COllections da ALura.
+**Progresso do dia: Aula 3 curso java dominando Collections da ALura.
 					Aula sobre boas práticas em Orientação a Objetos.
 					Utilização de classes genéricas ao invés tipos mais específicos, no caso, utilizar uma List<> ao invés de ArrayList<> ou LinkedList<>.
 					Utilizar o método Collections.unmodifiablelist() para retornar apenas uma cópia de um atributo do tipo List<>.
 					Diferença entre ArrayList e LinkedList, o primeiro utilizado o índice para realizar buscas rápidas, porém é lento para remover e reordenar, o segundo é rápido para reordenar e remover, porém lento para localizar elementos.
 					
+					
+Dia 66, Julho 22, 2019.
+**Progresso do dia: Aula 4 curso java dominando Collections da ALura.
+					Técnica para receber e modificar o resultado de get de uma classe que possui unmodifiablelist, em que é passado a lista para outra lista e por fim para uma variável, a partir daí é possível modificar a lista.
+					Override do toString da classe Object para alterar a forma como a classe apresenta uma saída ao ser impresso na tela sua referência.
+					Utilização do forEach para somar o tempo dos cursos em método própria da classe ao invés de seu objeto.
+					Breve entendimento sobre outros métodos do package Collections, sendo o reverse(), shufle(), singletonList(), nCopies.
+
+
+
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
