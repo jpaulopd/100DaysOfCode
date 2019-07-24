@@ -443,7 +443,20 @@ Dia 66, Julho 22, 2019.
 					Breve entendimento sobre outros métodos do package Collections, sendo o reverse(), shufle(), singletonList(), nCopies.
 
 
+Dia 67, Julho 23, 2019.
+**Progresso do dia:	Implmementação de rotina java com base no java.io uitlizando Writers para escrita, File.renameTo para renomear arquivo temporário.
+					Melhoria em código que utilizava lambda para remover elementos de um ArrayList baseado em outro ArrayList, agora utilizando apenas o removeAll().
+					Aula 5 curso Collections Alura sobre Set<> e HashSets métodos add(),contains().iteração, vantagens e descantagens.
+**Pensamentos:		Percebo que o importante em desenevolvimento é tentar e não se frustar com os milhares de erros, pois após uma longa curva de aprendizado, ele finalmente chega.
 
+
+Dia 68, Julho 24, 2019.
+**Progresso do dia: Aula 6 curso java dominando Collections da Alura.
+					Implementação da classe Alunos, associação entre essa nova classe e Cursos por meio do parâmetro, private Set<Aluno> alunos = new HashSet<>().
+					O alunos são gravados pelo método Curso.matricula(Aluno aluno) no parâmetro Set<Aluno> alunos.
+					Criação do método toString na classe Aluno.
+					Criação do método Curso.getAluno() que retorna uma Collections.unmodifiableSet(alunos);
+**Pensamentos:		Tem dia que vc quebra a cabeça e não sai, DROP TABLE danado...
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
