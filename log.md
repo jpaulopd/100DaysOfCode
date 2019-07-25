@@ -457,6 +457,22 @@ Dia 68, Julho 24, 2019.
 					Criação do método toString na classe Aluno.
 					Criação do método Curso.getAluno() que retorna uma Collections.unmodifiableSet(alunos);
 **Pensamentos:		Tem dia que vc quebra a cabeça e não sai, DROP TABLE danado...
+
+
+Dia 69, Julho 25, 2019.
+**Progresso do dia:	Manutenção em página PHP para localizar a razão pelo qual não era feita a leitura de dados recentes e para variar encontrei o problema em uma rotina JAVA ou do ACCESS.
+					Aula 7 curso java dominando Collections da Alura.
+					Implementação do método estaMatriculado() na classe de teste que verifica se a referencia de nome do aluno está no Set de alunos da classe Curso.
+					O contains funciona por meio de um equals, no caso implementado funciona pois um aluno é um objeto do tipo Aluno, porém retornaria falso se fosse passado o nome do aluno apenas como uma String.
+					Nesse caso é necessário implementar o Override do método equals da Superclasse Object e implementar o Override do método hashCode() da mesma superclasse.
+					O hascode é essencial para o bom funcionamento do equals, porém não obrigatório, pois ele cria uma associação de letras com números, gerando um valor de fácil comparação. Exemplo, A pertence a 1 e B pertence a 2, logo, ao buscar por A, será buscado a posição 1.
+					O hashcode pode ser implementado por meio do método do hasCode do Object e ChatAt(0) ou simplesmente hashCode da Classe String.
+					Outra forma de implementar o equals e hashcode é fazendo no Quick Access do Eclipse o Generate hashCode() and equals().
+**Pensamentos:		Ainda apanhei do truncate que estava travado no servidor do banco de dados.
+					Essa forma de procurar usando o JAVA não foi fácil entender, mas agora que entendi vai ajudar demais a agilizar alguns métodos no trabalho.
+
+
+
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
