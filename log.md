@@ -472,7 +472,12 @@ Dia 69, Julho 25, 2019.
 					Essa forma de procurar usando o JAVA não foi fácil entender, mas agora que entendi vai ajudar demais a agilizar alguns métodos no trabalho.
 
 
-
+Dia 70, Julho 26, 2019.
+**Progresso do dia:	Fechamento de manutenção em classe JAVA que foi alterada para substituir TRUNCATE TABLE por um DROP, CREATE LOGGED e SET LOGGED, a manutenção levou 3 dias pois o servidor do POSTGRE estava travando a consulta.
+					Aula 8 Curso java dominando Collections da Alura.
+					Teste com LinkedHashSet<> que mostra a sequencia em que foram guardados os objetos.
+					Teste com TreeSet<> que não mostra a sequencia e necessita da Classe Iterator e método iterator para realizar iteração entre os membros.
+**Pensamentos:		Depois de 3 dias brigando para fazer uma simples melhoria em um código JAVA descobri que o problema era no servidor Postgres e não no código.
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
