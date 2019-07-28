@@ -478,6 +478,16 @@ Dia 70, Julho 26, 2019.
 					Teste com LinkedHashSet<> que mostra a sequencia em que foram guardados os objetos.
 					Teste com TreeSet<> que não mostra a sequencia e necessita da Classe Iterator e método iterator para realizar iteração entre os membros.
 **Pensamentos:		Depois de 3 dias brigando para fazer uma simples melhoria em um código JAVA descobri que o problema era no servidor Postgres e não no código.
+
+
+Dia 71, Julho 27, 2019.
+**Progresso do dia: Fechamento curso java dominando collections da ALura.
+					Aprendi sobre MAP que não faz parte da interface Collection, mas é entendida como parte da API.
+					O Map funciona com a associação de uma chave a uma valor, INTEGER a STRING.
+					A iteração no MAP pode ocorrer tanto para chave, quanto o valor, quanto conjunto valor e chave, sendo utilizado os seguintes métodos no ForEach JAVA8: MAP.keySet(), Collection.values(), SET.entrySet().
+					No caso do projeto de curso, aluno e aluno, foi criado um parâmetro adicional na classe Curso com um HashMap<integer, Aluno>, adicionado ao método matricula o Hashmap.put(aluno.getNumeroMatricula(), aluno) e o método buscaMatricula que retorna o HashMap.
+					É possível alterar o return padrão do HasMap de null para um throw NoSuchElementException("String ").
+**Pensamentos:		A mensagem desse curso é que orientação a objetos está ficando mais claro e seu poder é inestimável. Vou ter que fazer vários 100DaysOfCode para aprofundar mais.					
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
