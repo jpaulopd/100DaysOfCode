@@ -488,6 +488,13 @@ Dia 71, Julho 27, 2019.
 					No caso do projeto de curso, aluno e aluno, foi criado um parâmetro adicional na classe Curso com um HashMap<integer, Aluno>, adicionado ao método matricula o Hashmap.put(aluno.getNumeroMatricula(), aluno) e o método buscaMatricula que retorna o HashMap.
 					É possível alterar o return padrão do HasMap de null para um throw NoSuchElementException("String ").
 **Pensamentos:		A mensagem desse curso é que orientação a objetos está ficando mais claro e seu poder é inestimável. Vou ter que fazer vários 100DaysOfCode para aprofundar mais.					
+
+
+Dia 72, Julho, 28, 2019.
+**Progresso do dia:	Início curso Maven build da Alura, instalação e configuração, criação de projetos, compilação, teste e clean com o Maven.
+**Pensamentos:		Design, codificação e entrega, agora começo a ver um processo de produção completo de software.
+
+
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
