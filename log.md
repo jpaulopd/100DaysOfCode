@@ -490,11 +490,15 @@ Dia 71, Julho 27, 2019.
 **Pensamentos:		A mensagem desse curso é que orientação a objetos está ficando mais claro e seu poder é inestimável. Vou ter que fazer vários 100DaysOfCode para aprofundar mais.					
 
 
-Dia 72, Julho, 28, 2019.
+Dia 72, Julho 28, 2019.
 **Progresso do dia:	Início curso Maven build da Alura, instalação e configuração, criação de projetos, compilação, teste e clean com o Maven.
 **Pensamentos:		Design, codificação e entrega, agora começo a ver um processo de produção completo de software.
 
 
+Dia 73, Julho 29, 2019.
+**Progresso do dia:	Depois de vários dias tentando dar um build com Antbuild em projeto que queria somente uma classe específica funcionasse, descobri que a danada estava dupilcada e não deixava o build rolar. 
+			Manutenção em shell scripts de montagem de server remotos.
+**Pensamentos:		Hoje é o primeiro dia de aula presencial depois de muitos anos fora da faculdade, frio na barriga rs.
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
