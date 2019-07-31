@@ -507,7 +507,11 @@ Dia 74, Julho 30, 2019.
 					Aula de lógica de programação sobre desafios de lógica.
 
 
-
+Dia 75, Julho 31, 2019.
+**Progress do dia:	Curso alura Eclipse: Produditividade Extrema na IDE com JAVA.
+					Geração de dois relatórios, um com informações simples de média e outro que necessitava utilizar regex do postgres.
+					Aprendi que value ~ '.*\y(20|40)\y.*' equivale retornar qualquer desde que seja igual somente "\y" a 20 ou 40 (20|40) e que não esteja combinado com outros caracteres(.*)
+**Pensamentos:		Fazer esses relatórios com pressão não é legal.					
 
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
