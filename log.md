@@ -496,14 +496,16 @@ Dia 72, Julho 28, 2019.
 
 
 Dia 73, Julho 29, 2019.
-**Progress do dia:	Depois de vários dias tentando dar um build com Antbuild em projeto que queria somente uma classe específica funcionasse, descobri que a danada estava dupilcada e não deixava o build rolar. 
-					Manutenção em shell scripts de montagem de server remotos.
+**Progresso do dia:	Depois de vários dias tentando dar um build com Antbuild em projeto que queria somente uma classe específica funcionasse, descobri que a danada estava dupilcada e não deixava o build rolar. 
+			Manutenção em shell scripts de montagem de server remotos.
+**Pensamentos:		Hoje é o primeiro dia de aula presencial depois de muitos anos fora da faculdade, frio na barriga rs.
 
 
 Dia 74, Julho 30, 2019.
 **Progresso do dia:	Teste de unidade em código VBA legado que não realizava montagem de gráficos em um email do outlook.
 					Manutenção código JAVA com problema de encode.
 					Aula de lógica de programação sobre desafios de lógica.
+
 
 
 
