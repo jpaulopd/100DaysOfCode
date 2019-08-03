@@ -511,11 +511,86 @@ Dia 75, Julho 31, 2019.
 **Progress do dia:	Curso alura Eclipse: Produditividade Extrema na IDE com JAVA.
 					Geração de dois relatórios, um com informações simples de média e outro que necessitava utilizar regex do postgres.
 					Aprendi que value ~ '.*\y(20|40)\y.*' equivale retornar qualquer desde que seja igual somente "\y" a 20 ou 40 (20|40) e que não esteja combinado com outros caracteres(.*)
-**Pensamentos:		Fazer esses relatórios com pressão não é legal.					
+**Pensamentos:		Fazer esses relatórios com pressão não é legal.	
 
+
+Dia 76: Julho 01, 2019.
+**Progresso do dia:	Teste de unidade em código VBA.
+					Aula sobre Redes de Computadores no IFB.
+					Estudo de base de dados para preparo de rotina de importação em JAVA.
+
+
+Dia 77: Julho 02, 2019.
+**Progresso do dia: Configuração de servidores postgresql para aceitar novo range de IP, arquivo pg_hba.
+					Configuração do apt-get no Ubuntu para funcionar sob proxy, sem sucesso.
+					Configuração do maven em máquina Windows, compile, teste, clean, report, package, java -cp package.jar caminhoProjetoClasseJava para executar.
+					Configuração e integração do maven com o Eclipse, ajuste nas dependências (<dependency>) do pom.xml para download direto https://mvnrepository.com/ 
+**Pensamentos:		Mudança é algo que é bom, mas cansa. Fazer mudança de ambiente de trabalho com frequência tem sido bem cansativo.
+
+
+Dia 78, Julho 03, 2019.
+**Progresso do dia:	Aulas 3 e 4 do curso de Maven build da ALura.
+					Aula 3 tratou de repositorio local como forma de compartilhar os recursos (plugins do maven) com os vários projetos (Java).
+					Dessa forma é possível executar o maven de maneira offline sem a necessidade de baixar as dependencias por meio do mvn -o.
+					O repositorio local fica salva na pasta do usuario em .m2 e poderá ser definido qual versão da dependência está sendo utilizado configurando diretamente o pom.xml.
+					Aula 4 tratou das fases de um build que é : validação > compilação > teste > pacote > testes de integracao > verificacao > instalacao > implantacao ; https://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html 
+					Ou seja se for executado o mvn compile, serão executadas as fases validação e compilação, assim sucessivamente.
+					É possível forçar a execução por meio do mvn -DskipTests=true package.
+					O plugin PWD é um analisados de código fonte utilizado durante o build para verificação de possíveis bugs, podendo ser utilizado inclusive para parar o build se certas checagens falharem.
+					O comando mvn pwd:pwd baixa as dependencias e o relatorio fica salvo em /target/site e o comando mvn:pwd:check de fato testa o código.
+					O pwd pode ser integrado ao build durante a fase de vida (GOAL) por meio de sua declaração no pom.xml ; https://maven.apache.org/plugins/maven-pmd-plugin/
+					Exemplo <project>
+							  <!-- ... -->
+							  <build>
+								<plugins>
+								  <plugin>
+									<groupId>org.apache.maven.plugins</groupId>
+									<artifactId>maven-pmd-plugin</artifactId>
+									<version>3.10.0</version>
+									<executions>
+										<execution>
+											<phase>verify</phase>
+												<goals>
+													<goal>check</goal>
+												</goals>
+										</execution>
+									</executions>
+								  </plugin>
+								</plugins>
+							  </build>
+							  <!-- ... -->
+							</project>
+					Outro plugin utilizado para testes é JaCoCo que faz uma varredura no código e verifica quais itens estão sendo testados; https://www.eclemma.org/jacoco/trunk/doc/maven.html
+					Para baixar as dependencias pode ser baixado por meio do código mvn jacoco:help.
+					Da mesmo forma que o PWD ele pode ser utilizado no build usando apenas os GOALS prepare-agent e report programando isso no pom.xml.
+					Outro ponto importante foi aprender a executar o maven diretamente no eclipse: clicar no projeto > Maven ... > configurar o goal e executar sempre que necessário.
+**Pensamentos:	Simplesmente fantástico aprender formas mais automática, eficientes e eficacez de testar se o código está funcionando do que o system.println.out.
+					
+					
+					
+					
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+##### (delete me or comment me out)11111-+.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
