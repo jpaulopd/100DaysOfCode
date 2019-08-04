@@ -565,6 +565,27 @@ Dia 78, Julho 03, 2019.
 					Da mesmo forma que o PWD ele pode ser utilizado no build usando apenas os GOALS prepare-agent e report programando isso no pom.xml.
 					Outro ponto importante foi aprender a executar o maven diretamente no eclipse: clicar no projeto > Maven ... > configurar o goal e executar sempre que necessário.
 **Pensamentos:	Simplesmente fantástico aprender formas mais automática, eficientes e eficacez de testar se o código está funcionando do que o system.println.out.
+
+
+Dia 79, Julho 04, 2019.
+**Progresso do dia: Aula 5 do curso alura Maven build.
+					Criação de projeto Maven diretamente do Java de um archetype web app para o desenvolvimento de uma aplicação web http://localhost:8080/loja.
+					Alteração do pom.xml para usar o plugin Jetty, não sendo necessário criar um servidor web.
+					Ajuste no pom.xml para que o eclipse reconheça no class path o servlet e substituição do web.xml 
+					<dependency>
+						<groupId>javax.servlet</groupId>
+						<artifactId>javax.servlet-api</artifactId>
+						<version>3.1.0</version>
+					</dependency>
+					-----------------------------------------------------------
+					<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+							 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+							 xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee 
+							 http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
+							 version="3.1">
+					</web-app>
+					Criação de uma classe java que utiliza o HttpServlet e configura um URL por meio de um diretorio virtual (@WebServlet(urlPatterns={"/contato"})).
+**Pensamentos:	Hoje foi bem confuso para mim, uma vez que de certa forma é a primeira vez que vejo uma página web rodando diretamente de uma aplicação do servidor em Java. Proximo curso vai romper paradigmas.
 					
 					
 					
