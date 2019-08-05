@@ -588,7 +588,12 @@ Dia 79, Julho 04, 2019.
 **Pensamentos:	Hoje foi bem confuso para mim, uma vez que de certa forma é a primeira vez que vejo uma página web rodando diretamente de uma aplicação do servidor em Java. Proximo curso vai romper paradigmas.
 					
 					
-					
+Dia 80, Julho 05, 2019.
+**Progresso do dia: Parte da aula 6 da Alura curso Maven Build.
+					Explicação da tag <scope> nas dependências do projeto, em que "test" não é incorporado ao build do projeto.
+					Referência a outro projeto do projeto por meio do <dependency> no pom.xml, porém que é necessário o MVN install para gerar o build no repositorio local e incorporar ao build.
+					Início da criação de rotina JAVA de importação de um servidor Postrgresql para escrita em um servidor Sql Server, porém com atenção para controle dos dados escritos e retomada a partir da última escrita.									
+
 					
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
