@@ -514,13 +514,13 @@ Dia 75, Julho 31, 2019.
 **Pensamentos:		Fazer esses relatórios com pressão não é legal.	
 
 
-Dia 76: Julho 01, 2019.
+Dia 76: Agosto 01, 2019.
 **Progresso do dia:	Teste de unidade em código VBA.
 					Aula sobre Redes de Computadores no IFB.
 					Estudo de base de dados para preparo de rotina de importação em JAVA.
 
 
-Dia 77: Julho 02, 2019.
+Dia 77: Agosto 02, 2019.
 **Progresso do dia: Configuração de servidores postgresql para aceitar novo range de IP, arquivo pg_hba.
 					Configuração do apt-get no Ubuntu para funcionar sob proxy, sem sucesso.
 					Configuração do maven em máquina Windows, compile, teste, clean, report, package, java -cp package.jar caminhoProjetoClasseJava para executar.
@@ -528,7 +528,7 @@ Dia 77: Julho 02, 2019.
 **Pensamentos:		Mudança é algo que é bom, mas cansa. Fazer mudança de ambiente de trabalho com frequência tem sido bem cansativo.
 
 
-Dia 78, Julho 03, 2019.
+Dia 78, Agosto 03, 2019.
 **Progresso do dia:	Aulas 3 e 4 do curso de Maven build da ALura.
 					Aula 3 tratou de repositorio local como forma de compartilhar os recursos (plugins do maven) com os vários projetos (Java).
 					Dessa forma é possível executar o maven de maneira offline sem a necessidade de baixar as dependencias por meio do mvn -o.
@@ -567,7 +567,7 @@ Dia 78, Julho 03, 2019.
 **Pensamentos:	Simplesmente fantástico aprender formas mais automática, eficientes e eficacez de testar se o código está funcionando do que o system.println.out.
 
 
-Dia 79, Julho 04, 2019.
+Dia 79, Agosto 04, 2019.
 **Progresso do dia: Aula 5 do curso alura Maven build.
 					Criação de projeto Maven diretamente do Java de um archetype web app para o desenvolvimento de uma aplicação web http://localhost:8080/loja.
 					Alteração do pom.xml para usar o plugin Jetty, não sendo necessário criar um servidor web.
@@ -588,13 +588,24 @@ Dia 79, Julho 04, 2019.
 **Pensamentos:	Hoje foi bem confuso para mim, uma vez que de certa forma é a primeira vez que vejo uma página web rodando diretamente de uma aplicação do servidor em Java. Proximo curso vai romper paradigmas.
 					
 					
-Dia 80, Julho 05, 2019.
+Dia 80, Agosto 05, 2019.
 **Progresso do dia: Parte da aula 6 da Alura curso Maven Build.
 					Explicação da tag <scope> nas dependências do projeto, em que "test" não é incorporado ao build do projeto.
 					Referência a outro projeto do projeto por meio do <dependency> no pom.xml, porém que é necessário o MVN install para gerar o build no repositorio local e incorporar ao build.
 					Início da criação de rotina JAVA de importação de um servidor Postrgresql para escrita em um servidor Sql Server, porém com atenção para controle dos dados escritos e retomada a partir da última escrita.									
 
-					
+
+Dia 81, Agosto 06, 2019.
+**Progresso do dia:	Finalização curso Alura Maven Build.
+					Melhor explicação sobre escopo de dependências, em que explicado a arvore dependências relacionado as bibliotecas que são utilizadas pelo projeto atual e os projetos que relacionados.
+					O controle de "importação" ocorre pela tag <scope>, sendo "compile" a inclusão de todas as dependências, menos as de "test".
+					"runtime" é utilizado apeans para execução do código.
+					"provided" é usado para testes e execução, porém é provida no ambiente de produção.
+					É possível excluir dependências de uma dependências por meio da tag <exclusions> e  <exclusion> relacionando o <groupId> e <artifactId>
+					Outro ponto a ser observado é a utilização o mvn clean antes do mvn compile quando houver remoção de uma dependência.
+					Finalização da criação de rotina Java que importa dados de uma DB, escreve em outro DB, mas verifica qual foi o ponto de parada antes de iniciar um novo ciclo de pesquisa.
+					Aula de lógica de programação, uso de preposições, conectivos e tabela verdade.
+**Pensamentos: 		Muito aprendi nesses quase 100 dias de programação e uma delas é que gosto realmente do que estou fazendo, sinto vontade de não parar mais. :D
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)11111-+.
