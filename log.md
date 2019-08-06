@@ -597,7 +597,8 @@ Dia 80, Agosto 05, 2019.
 
 Dia 81, Agosto 06, 2019.
 **Progresso do dia:	Finalização curso Alura Maven Build.
-					Melhor explicação sobre escopo de dependências, em que explicado a arvore dependências relacionado as bibliotecas que são utilizadas pelo projeto atual e os projetos que relacionados.
+					Melhor explicação sobre escopo de dependências, em que explicado a arvore dependências relacionado as bibliotecas que são tilizadas pelo projeto atual e os projetos que relacionados.
+					Mnv dependency:tree para visualizar na linha código a arvore de dependencia.
 					O controle de "importação" ocorre pela tag <scope>, sendo "compile" a inclusão de todas as dependências, menos as de "test".
 					"runtime" é utilizado apeans para execução do código.
 					"provided" é usado para testes e execução, porém é provida no ambiente de produção.
