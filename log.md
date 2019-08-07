@@ -607,6 +607,12 @@ Dia 81, Agosto 06, 2019.
 					Finalização da criação de rotina Java que importa dados de uma DB, escreve em outro DB, mas verifica qual foi o ponto de parada antes de iniciar um novo ciclo de pesquisa.
 					Aula de lógica de programação, uso de preposições, conectivos e tabela verdade.
 **Pensamentos: 		Muito aprendi nesses quase 100 dias de programação e uma delas é que gosto realmente do que estou fazendo, sinto vontade de não parar mais. :D
+
+
+Dia 82, Agosto 07, 2019.
+**Progresso do dia: Resolução exercícios de lógica de programação construção de algoritmos em linguagem natural e criação de fluxogramas no IFB.
+					Aula sobre Redes convergentes, confiáveis, tendências de rede, tecnologias de redes para casa, segurança de redes, arquitetura de redes de Introdução à Redes de Computadores plataforma Cisco. 
+					
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)11111-+.
