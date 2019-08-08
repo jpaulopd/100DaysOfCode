@@ -612,6 +612,19 @@ Dia 81, Agosto 06, 2019.
 Dia 82, Agosto 07, 2019.
 **Progresso do dia: Resolução exercícios de lógica de programação construção de algoritmos em linguagem natural e criação de fluxogramas no IFB.
 					Aula sobre Redes convergentes, confiáveis, tendências de rede, tecnologias de redes para casa, segurança de redes, arquitetura de redes de Introdução à Redes de Computadores plataforma Cisco. 
+
+
+Dia 83, Agosto 08, 2019.
+**Progresso do dia: Resolução desafios 1001 e 1002 do URI.
+					Formatação no java de números decimais, em que um numero double 2,32 poderá ter a saída formatada usando o System.out.printf("String %d%n", numero).
+					%d ou %f é a para formatar um double ou float.
+					%.[1-9]d ou f, é quantidade de casas decimais.
+					%[1-9999].d ou f é quantidade de números antes da vírgula.
+					%n é o break line.
+					Uso do Math.pow(variável, expoente) para cálculo de exponenciação.
+					Correção de classe java que não estava importando estava escrevendo corretamente em um BD, pois um valor nulo não estava passando pelo getInt, então substitui por getObject.
+					Aula sobre construção de páginas no IFB: internet, servidores e requisições, introdução ao HTML.
+**Pensamentos: 		O que tenho achado pior em desenvolver é a pressão por entrega sem priorização com prazos razoáveis para solução.
 					
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
