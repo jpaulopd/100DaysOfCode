@@ -634,6 +634,12 @@ Dia 84, Agosto 09, 2019.
 					Estudo de banco de dados para implementação de rotina.
 					Debug de classe JAVA que estava duplicando a execução de um método de escrita.
 **Pensamentos:		Pressão, pressão, pressão... tô uma panela de pressão!
+
+
+Dia 85, Agosto 10, 2019.
+**Progresso do dia: Resolução dos exercícios 1003 a 1006 do URI.
+					Utilização do Math.multiplyExact(X,Y) para cálculo da multiplicação entre dois inteiros.
+					
 					
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
