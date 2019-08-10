@@ -625,6 +625,15 @@ Dia 83, Agosto 08, 2019.
 					Correção de classe java que não estava importando estava escrevendo corretamente em um BD, pois um valor nulo não estava passando pelo getInt, então substitui por getObject.
 					Aula sobre construção de páginas no IFB: internet, servidores e requisições, introdução ao HTML.
 **Pensamentos: 		O que tenho achado pior em desenvolver é a pressão por entrega sem priorização com prazos razoáveis para solução.
+
+
+Dia 84, Agosto 09, 2019.
+**Progresso do dia: Debug de rotina JAVA que importava de um Postgresql para um SQL Server com controle de ponto de parada que não estava funcionando.
+					Melhorei ainda o controle de fluxo em que quando o Resultset é vazio, apresentar mensagem e encerra a aplicação.
+					O debug apresentou que o erro era proveniente do tempo de demora na execução da consulta ao Postgresql uma que os índices haviam parado de subir por falha do preload.
+					Estudo de banco de dados para implementação de rotina.
+					Debug de classe JAVA que estava duplicando a execução de um método de escrita.
+**Pensamentos:		Pressão, pressão, pressão... tô uma panela de pressão!
 					
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
