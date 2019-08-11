@@ -639,7 +639,10 @@ Dia 84, Agosto 09, 2019.
 Dia 85, Agosto 10, 2019.
 **Progresso do dia: Resolução dos exercícios 1003 a 1006 do URI.
 					Utilização do Math.multiplyExact(X,Y) para cálculo da multiplicação entre dois inteiros.
-					
+
+Dia 86, Agosto 11, 2019.
+**Progresso do dia: Resolução dos exercicios 1007 e 1008 do URI.
+					Exercicio 1008 compila no IDE para aparece error no URI, não entendi o motivo.
 					
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
