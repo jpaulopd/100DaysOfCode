@@ -643,7 +643,15 @@ Dia 85, Agosto 10, 2019.
 Dia 86, Agosto 11, 2019.
 **Progresso do dia: Resolução dos exercicios 1007 e 1008 do URI.
 					Exercicio 1008 compila no IDE para aparece error no URI, não entendi o motivo.
-					
+
+
+Dia 87, Agosto 12, 2019.
+**Progresso do dia: Novamente fazendo revisão de código JAVA que importa de Postgresql e escreve em um SQL Server.
+						Tentei uma abordagem de 4 métodos, um para buscar ponto de parada, um para importar, um para escrever e outro para fechar recursos.
+						O que eu não sabia é que não é possível passar o ResultSet de um método para outro após ser utilizado, além de ser má prática.
+					Aula e exercícios de algoritmos, fluxogramas em Lógica de Programação no IFB.
+					Debug de consulta SQL que não está retorno resultado.
+
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)11111-+.
